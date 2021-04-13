@@ -1,6 +1,11 @@
 # Project 8 Predict Stock Prices using Time Series Analysis
 
 1. [Importar librerías ](#schema1)
+2. [Trazado de la variable  VWAP.](#schema2)
+3. [Procesamiento de los datos](#schema3)
+4. [Rellenar con datos, usando la función rolling](#schema4)
+5. [Aplicar Auto-Arima en datos](#schema5)
+6. [valuación del modelo de series de tiempo](#schema6)
 
 <hr>
 
